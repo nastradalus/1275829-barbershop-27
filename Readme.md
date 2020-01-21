@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Татьяна Минина](https://up.htmlacademy.ru/htmlcss/27/user/1275829).
+* Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
 
 ---
 
